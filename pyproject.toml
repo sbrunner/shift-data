@@ -31,7 +31,7 @@ pandas = "2.2.3"
 openpyxl = "3.1.5"
 wikidata = "0.8.1"
 toml = "0.10.2"
-certifi = "2024.12.14"
+certifi = "2025.1.31"
 urllib3 = "2.3.0"
 idna = "3.10"
 
